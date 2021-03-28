@@ -122,5 +122,5 @@ int main(){
         printNode(head);
     }
     
-    return 1;
+    return 0;
 }
