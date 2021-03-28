@@ -93,7 +93,7 @@ int main(){
     // no load in train
     if (n <= 0){
         printf("Muatan kosong\n");
-        return 1;
+        return 0;
     }
 
     struct node *head;
